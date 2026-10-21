@@ -14,6 +14,11 @@ team's plate, so people spend their time with customers.
   agent sweeps sources every morning, scores each opportunity with weighted rules and
   deal-breakers, and hands me a ranked shortlist with a next step. Same engine for my
   career pipeline and for B2B prospecting.
+- **[Bompy y los Amigos del Bosque](https://bompystories.com)**: a bilingual children's
+  book brand I created and launched: illustrated stories for ages 3-7 in Spanish,
+  English and bilingual editions, sold on Amazon (print and Kindle) and as printable
+  PDFs, plus personalized books with the child's name. Stories, illustrations and
+  website made with Claude and Higgsfield.
 
 ## Playground
 
