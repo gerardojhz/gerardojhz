@@ -15,6 +15,17 @@ team's plate, so people spend their time with customers.
   deal-breakers, and hands me a ranked shortlist with a next step. Same engine for my
   career pipeline and for B2B prospecting.
 
+## Playground
+
+Things I make with AI because I like making things.
+
+- **[El Secreto de NKD Island](https://gerardojhz.github.io/nkd-island/)**: a
+  point-and-click pirate adventure in one HTML file, built with Claude, with pixel art
+  and music generated in Higgsfield. ([code](https://github.com/gerardojhz/nkd-island))
+- **[Caras vemos](https://www.youtube.com/watch?v=wCx7nt1bGMI)** (short film, 3:27): a
+  visual piece about the strangers who cross our path every day. Made end to end with
+  AI: video with Higgsfield Supercomputer, music with Suno.
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/gerardojhz/) · [nkd.mx](https://www.nkd.mx)
