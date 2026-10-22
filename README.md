@@ -19,6 +19,10 @@ team's plate, so people spend their time with customers.
   English and bilingual editions, sold on Amazon (print and Kindle) and as printable
   PDFs, plus personalized books with the child's name. Stories, illustrations and
   website made with Claude and Higgsfield.
+- **[Prueba DISC · Grupo NKD](https://gerardojhz.github.io/disc-nkd/)**: the DISC
+  assessment we use in Grupo NKD's leadership workshops: 24 word groups, natural vs.
+  adapted style charts and a profile card per style. One HTML file built with Claude;
+  runs on Google Apps Script in workshops. ([code](https://github.com/gerardojhz/disc-nkd))
 
 ## Playground
 
